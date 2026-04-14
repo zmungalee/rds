@@ -1,0 +1,2 @@
+-- Placeholder for local bootstrap SQL.
+-- FastAPI + SQLAlchemy create the required tables automatically on app start.
